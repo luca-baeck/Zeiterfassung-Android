@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Repository](https://github.com/luca-baeck/Zeiterfassung-Android "Face Verification Repository")
+- [Repository](https://github.com/luca-baeck/Zeiterfassung-Android "Zeiterfassung Android Repository")
 
 - [Bugs](https://github.com/luca-baeck/Zeiterfassung-Android/issues "Issues Page")
 
