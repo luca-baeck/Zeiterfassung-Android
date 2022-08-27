@@ -12,8 +12,8 @@
 
 ![Screenshot](/application-preview/preview.jpg "Screenshot")
 ![Screenshot](/application-preview/setwage.jpg "Screenshot")
-![Screenshot](/application-preview/pickdate.jpg "Screenshot")
-![Screenshot](/application-preview/picktime.jpg "Screenshot")
+![Screenshot](/application-preview/pickdate.png "Screenshot")
+![Screenshot](/application-preview/picktime.png "Screenshot")
 ![Screenshot](/application-preview/added.jpg "Screenshot")
 ![Screenshot](/application-preview/overview.jpg "Screenshot")
 ![Screenshot](/application-preview/reset.jpg "Screenshot")
